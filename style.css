@@ -6,8 +6,12 @@ h1 {
     color: green;
 }
 
+p {
+    color: whitesmoke;
+}
+
 .navbar {
-    color: black;
+    color: whitesmoke;
     display: inline-block;
     box-sizing: border-box;
     padding: 10px;
