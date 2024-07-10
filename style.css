@@ -5,9 +5,12 @@ h1 {
 .navbar {
     color: black;
     display: inline-block;
+    box-sizing: border-box;
+    padding: 10px;
 }
 
 .navbar ul li {
     display: table-cell;
     vertical-align: center;
+    padding: 10px;
 }
